@@ -1,6 +1,6 @@
 # Hello, I'm Ivan! 👋
 
-I'm a 20-year-old student passionate about software development, with a focus on C#, TypeScript, and Vue.js. I love building web applications and exploring new technologies.
+I'm a 22-year-old student passionate about software development, with a focus on C#, TypeScript, and Vue.js. I love building web applications and exploring new technologies.
 
 ## Interests
 
